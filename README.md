@@ -9,11 +9,11 @@ A Python application that lets you draw in the air using hand gestures, powered 
 - Clear canvas functionality
 - Webcam feed overlay
 
-## Requirements 📋
+## Requirements
 - Python 3.11+
 - Webcam
 
-## Installation 🛠️
+## Installation
 
 1. Clone the repository:
 ```bash
