@@ -55,7 +55,7 @@ The application uses:
 ## Demo
 ![Gesture Drawing Demo](gesture-recognizer.png)
 
-## Troubleshooting ⚠️
+## Troubleshooting
 - If webcam isn't detected, try changing `cv2.VideoCapture(0)` to `cv2.VideoCapture(1)`
 - For performance issues, reduce the webcam resolution
 - Ensure proper lighting for better hand detection
