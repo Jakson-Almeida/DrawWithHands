@@ -1,8 +1,8 @@
-# DrawWithHands 🖐️🎨
+# DrawWithHands
 
-A Python application that lets you draw in the air using hand gestures, powered by MediaPipe and Pygame.
+A Python application that lets you draw in the air using hand gestures, powered by **MediaPipe** and **Pygame**.
 
-## Features ✨
+## Features
 - Real-time hand tracking with 21 landmarks
 - Pinch gesture detection for drawing
 - Adjustable brush size and color
@@ -33,7 +33,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
-## Usage 🚀
+## Usage
 Run the application:
 ```bash
 python draw.py
@@ -45,14 +45,14 @@ python draw.py
 - **Clear All button**: Reset the canvas
 - **ESC**: Exit the application
 
-## How It Works 🔍
+## How It Works
 The application uses:
 - MediaPipe for real-time hand tracking
 - Pygame for rendering and drawing
 - Pinch detection between thumb and index finger
 - Simple GUI buttons for controls
 
-## Demo 📸
+## Demo
 ![Gesture Drawing Demo](gesture-recognizer.png)
 
 ## Troubleshooting ⚠️
