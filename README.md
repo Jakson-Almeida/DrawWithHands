@@ -52,9 +52,6 @@ The application uses:
 - Pinch detection between thumb and index finger
 - Simple GUI buttons for controls
 
-## Demo
-![Gesture Drawing Demo](gesture-recognizer.png)
-
 ## Troubleshooting
 - If webcam isn't detected, try changing `cv2.VideoCapture(0)` to `cv2.VideoCapture(1)`
 - For performance issues, reduce the webcam resolution
