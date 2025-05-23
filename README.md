@@ -17,7 +17,7 @@ A Python application that lets you draw in the air using hand gestures, powered 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/DrawWithHands.git
+git clone https://github.com/Jakson-Almeida/DrawWithHands.git
 cd DrawWithHands
 ```
 
